@@ -1,16 +1,31 @@
-## Hi there 👋
+# Daniel (Zeyang) Li
 
-<!--
-**daniel-li2021/daniel-li2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · Backend, Data Systems & Applied AI**
 
-Here are some ideas to get you started:
+I build dependable software that turns complex data into useful, inspectable products. My work spans backend services, retrieval systems, data pipelines and LLM evaluation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+M.S. Computer Science, USC · B.S. Computer Science & Applied Mathematics, UC Santa Barbara  
+Open to early-career software engineering opportunities, especially backend, data platforms and applied AI.
+
+[Portfolio](https://portfolio-tan-eta-44.vercel.app/) · [Résumé](https://portfolio-tan-eta-44.vercel.app/resume.html) · [Email](mailto:daniel.li20030226@gmail.com)
+
+## Selected projects
+
+| Project | Engineering focus | Explore |
+| --- | --- | --- |
+| **[Inventory Intelligence](https://github.com/daniel-li2021/inventory-intelligence)** | Evidence-gated inventory reliability and planning with Python/PostgreSQL. Read-only synthetic workbench. | [Demo](https://inventory-intelligence-boss.onrender.com/) |
+| **[CounselReflect](https://github.com/daniel-li2021/CounselReflect)** | Shared LLM evaluation engine across a web app, Chrome extension, API and CLI. Collaborative USC research. | [Web app](https://www.counselreflect.com/) |
+| **[FinRAG Lab](https://github.com/daniel-li2021/fin-rag-lab)** | Financial RAG with original evidence, exact calculations and immutable history. Public demo uses preserved research results. | [Demo](https://fin-rag-lab.vercel.app/) |
+| **[Job Board Pipeline](https://github.com/daniel-li2021/job-board-pipeline)** | Multi-source discovery, deduplication, evidence-based matching and last-good recovery. | [Dashboard](https://daniel-li2021.github.io/job-board-pipeline/) |
+| **[GauchoBuddy](https://github.com/daniel-li2021/GauchoBuddy)** | Earlier UCSB team capstone: course insights and an AI-assisted Chrome extension. | [Original recordings](https://github.com/daniel-li2021/GauchoBuddy#readme) |
+
+The portfolio includes actual screenshots, engineering notes and the scope behind retained results.
+
+## Tools I work with
+
+- **Languages:** Python, TypeScript/JavaScript, SQL, Java
+- **Backend & product:** FastAPI, Node.js, React, Next.js, REST APIs
+- **Data & AI:** PostgreSQL, pgvector, Redis, Spark, RAG, hybrid retrieval, LLM evaluation
+- **Infrastructure:** AWS ECS/Fargate, Docker, GitHub Actions, CI/CD
+
+I care about traceable decisions, reliable execution and interfaces people can understand.
